@@ -1,2 +1,2 @@
 # git-tutorial
-- edit from computer
+- edit from web
